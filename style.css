@@ -432,4 +432,10 @@ nav ul li a:hover {
     font-size: 0.7rem;
     color: #000;
   }
+  .progress-bar ol {
+    font-size: 0.8rem;
+  }
+  .progress-bar a {
+    font-size: 0.8rem;
+  }
 }
